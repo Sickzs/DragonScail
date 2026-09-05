@@ -3,7 +3,6 @@ from abc import ABC, abstractmethod
 from jogo.enemy import *
 from jogo.jogador import *
 
-import pandas
 import json
 import os
 import random
